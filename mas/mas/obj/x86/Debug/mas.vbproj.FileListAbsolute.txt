@@ -1,0 +1,18 @@
+C:\Users\marku\AppData\Local\Temporary Projects\mas\bin\Debug\mas.exe
+C:\Users\marku\AppData\Local\Temporary Projects\mas\bin\Debug\mas.pdb
+C:\Users\marku\AppData\Local\Temporary Projects\mas\bin\Debug\mas.xml
+C:\Users\marku\AppData\Local\Temporary Projects\mas\obj\x86\Debug\mas.Form1.resources
+C:\Users\marku\AppData\Local\Temporary Projects\mas\obj\x86\Debug\mas.Resources.resources
+C:\Users\marku\AppData\Local\Temporary Projects\mas\obj\x86\Debug\mas.vbproj.GenerateResource.Cache
+C:\Users\marku\AppData\Local\Temporary Projects\mas\obj\x86\Debug\mas.exe
+C:\Users\marku\AppData\Local\Temporary Projects\mas\obj\x86\Debug\mas.xml
+C:\Users\marku\AppData\Local\Temporary Projects\mas\obj\x86\Debug\mas.pdb
+C:\mas\mas\mas\obj\x86\Debug\mas.exe
+C:\mas\mas\mas\obj\x86\Debug\mas.xml
+C:\mas\mas\mas\obj\x86\Debug\mas.pdb
+C:\mas\mas\mas\bin\Debug\mas.exe
+C:\mas\mas\mas\bin\Debug\mas.pdb
+C:\mas\mas\mas\bin\Debug\mas.xml
+C:\mas\mas\mas\obj\x86\Debug\mas.Form1.resources
+C:\mas\mas\mas\obj\x86\Debug\mas.Resources.resources
+C:\mas\mas\mas\obj\x86\Debug\mas.vbproj.GenerateResource.Cache

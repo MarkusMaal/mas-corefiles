@@ -1,0 +1,1 @@
+MsgBox("Arvuti on nüüd kiirendatud")

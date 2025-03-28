@@ -1,0 +1,36 @@
+C:\mas\Shell\bin\Debug\Shell.exe
+C:\mas\Shell\bin\Debug\Shell.pdb
+C:\mas\Shell\bin\Debug\Shell.xml
+C:\mas\Shell\obj\x86\Debug\Mas_Shell.Form1.resources
+C:\mas\Shell\obj\x86\Debug\Mas_Shell.Resources.resources
+C:\mas\Shell\obj\x86\Debug\Shell.vbproj.GenerateResource.Cache
+C:\mas\Shell\obj\x86\Debug\Shell.exe
+C:\mas\Shell\obj\x86\Debug\Shell.xml
+C:\mas\Shell\obj\x86\Debug\Shell.pdb
+C:\mas\Shell\obj\x86\Debug\Mas_Shell.Form2.resources
+C:\mas\Shell\obj\x86\Debug\Mas_Shell.Dialog.resources
+C:\mas\Shell\bin\Debug\Interop.WMPLib.dll
+C:\mas\Shell\bin\Debug\AxInterop.WMPLib.dll
+C:\mas\Shell\obj\x86\Debug\Interop.WMPLib.dll
+C:\mas\Shell\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\mas\Shell\obj\x86\Debug\Shell.vbproj.ResolveComReference.cache
+C:\mas\Shell\obj\x86\Debug\Mas_Shell.WmpForm.resources
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\bin\Debug\Shell.exe
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\bin\Debug\Shell.pdb
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\bin\Debug\Shell.xml
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\bin\Debug\Interop.WMPLib.dll
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\bin\Debug\AxInterop.WMPLib.dll
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Shell.vbproj.AssemblyReference.cache
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Interop.WMPLib.dll
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Shell.vbproj.ResolveComReference.cache
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Mas_Shell.Dialog.resources
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Mas_Shell.Form1.resources
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Mas_Shell.Form2.resources
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Mas_Shell.Resources.resources
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Mas_Shell.WmpForm.resources
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Shell.vbproj.GenerateResource.cache
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Shell.vbproj.CoreCompileInputs.cache
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Shell.exe
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Shell.xml
+G:\markuse asjad\markuse asjad\Markus\Muud asjad\Backups\mas\Shell\obj\x86\Debug\Shell.pdb

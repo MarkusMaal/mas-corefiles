@@ -1,12 +1,4 @@
 @echo off
-::Â ’
-::é ƒ
-::ô ÷
-::ö ‹
-::ı ‰
-::‰ Ñ
-::ˆ î
-::¸ Å
 setlocal EnableDelayedExpansion
 set "tab=	"
 for /l %%a in (1,1,1000) do set "bck=!bck!"
@@ -14,7 +6,7 @@ for /l %%a in (1,1,1000) do set "bck=!bck!"
 :menu
 cls
 Echo.
-Echo SöSTEEMI INFO
+Echo S?STEEMI INFO
 Echo.
 Echo Mida soovite teada saada?
 Echo.
@@ -43,21 +35,21 @@ set winver=%note8%
 set pin=%note10%
 if "%pin%"=="0221" set device=ML arvuti (ID 221)
 if "%pin%"=="0211" set device=Ordi arvuti (ID 211)
-if "%pin%"=="0521" set device=Markuse mÑlupulk (ID 521)
+if "%pin%"=="0521" set device=Markuse m?lupulk (ID 521)
 if "%pin%"=="0321" set device=Huawei MediaPad Tahvelarvuti (ID 321)
 if "%pin%"=="0311" set device=Asus Nexus Tahvelarvuti (ID 311)
-if "%device%"=="" set device=???????
+if "%device%"=="" set device=Tundmatu (ID 0)
 cls
 Echo.
 Echo Versiooni info
 Echo.
 Echo Versioon: %version%
-Echo JÑrk: %build%
-if "%edition%"=="Basic" bg print 07 "V˜ljaanne:"&bg print 0A " %edition%"
-if "%edition%"=="Premium" bg print 07 "V˜ljaanne:"&bg print 0C " %edition%"
-if "%edition%"=="Pro" bg print 07 "V˜ljaanne:"&bg print 0B " %edition%"
-if "%edition%"=="Ultimate" bg print 07 "V˜ljaanne:"&bg print 0D " %edition%"
-if "%edition%"=="Starter" bg print 07 "V˜ljaanne:"&bg print 02 " %edition%"
+Echo J?rk: %build%
+if "%edition%"=="Basic" bg print 07 "V?ljaanne:"&bg print 0A " %edition%"
+if "%edition%"=="Premium" bg print 07 "V?ljaanne:"&bg print 0C " %edition%"
+if "%edition%"=="Pro" bg print 07 "V?ljaanne:"&bg print 0B " %edition%"
+if "%edition%"=="Ultimate" bg print 07 "V?ljaanne:"&bg print 0D " %edition%"
+if "%edition%"=="Starter" bg print 07 "V?ljaanne:"&bg print 02 " %edition%"
 Echo.
 Echo Seade: %device%
 Echo.
@@ -74,7 +66,7 @@ for /f "skip=5 tokens=1,2 delims= " %%A in ('dir /ad /od /tc "C:\mas"') do (
   goto :end_loop
 )
 :end_loop
-for /f "skip=5 tokens=1,2 delims= " %%A in ('dir /ad /od /tc "%SystemRoot%\System32"') do (
+for /f "skip=5 tokens=1,2 delims= " %%A in ('dir /ad /od /tc "C:\$SysReset"') do (
   set SystemfileDate=%%A %%B
   goto :end_loop1
 )
@@ -95,7 +87,7 @@ if "%integration%"=="true" Echo Markuse asjad on selles arvutis juurutatud
 if "%integration%"=="false" Echo Markuse asjad ei ole selles arvutis juurutatud
 if "%fileDate%"=="" goto straightskip
 Echo.
-Echo Juurutamise kuupÑev
+Echo Juurutamise kuup?ev
 Echo %fileDate%
 :straightskip
 Echo.

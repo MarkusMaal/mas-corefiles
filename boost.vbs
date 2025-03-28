@@ -1,1 +1,2 @@
-FreeMem=Space(409400000)
+Freemem=Space(102400000)
+mystring=(80000000)

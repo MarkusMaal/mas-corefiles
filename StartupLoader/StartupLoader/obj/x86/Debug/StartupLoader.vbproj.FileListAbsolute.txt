@@ -1,0 +1,20 @@
+C:\Users\Markus Maal\AppData\Local\Temporary Projects\StartupLoader\bin\Debug\StartupLoader.exe
+C:\Users\Markus Maal\AppData\Local\Temporary Projects\StartupLoader\bin\Debug\StartupLoader.pdb
+C:\Users\Markus Maal\AppData\Local\Temporary Projects\StartupLoader\bin\Debug\StartupLoader.xml
+C:\Users\Markus Maal\AppData\Local\Temporary Projects\StartupLoader\obj\x86\Debug\StartupLoader.Form1.resources
+C:\Users\Markus Maal\AppData\Local\Temporary Projects\StartupLoader\obj\x86\Debug\StartupLoader.Resources.resources
+C:\Users\Markus Maal\AppData\Local\Temporary Projects\StartupLoader\obj\x86\Debug\StartupLoader.vbproj.GenerateResource.Cache
+C:\Users\Markus Maal\AppData\Local\Temporary Projects\StartupLoader\obj\x86\Debug\StartupLoader.exe
+C:\Users\Markus Maal\AppData\Local\Temporary Projects\StartupLoader\obj\x86\Debug\StartupLoader.xml
+C:\Users\Markus Maal\AppData\Local\Temporary Projects\StartupLoader\obj\x86\Debug\StartupLoader.pdb
+C:\mas\StartupLoader\StartupLoader\obj\x86\Debug\StartupLoader.exe
+C:\mas\StartupLoader\StartupLoader\obj\x86\Debug\StartupLoader.xml
+C:\mas\StartupLoader\StartupLoader\obj\x86\Debug\StartupLoader.pdb
+C:\mas\StartupLoader\StartupLoader\bin\Debug\StartupLoader.exe
+C:\mas\StartupLoader\StartupLoader\bin\Debug\StartupLoader.pdb
+C:\mas\StartupLoader\StartupLoader\bin\Debug\StartupLoader.xml
+C:\mas\StartupLoader\StartupLoader\obj\x86\Debug\StartupLoader.Form1.resources
+C:\mas\StartupLoader\StartupLoader\obj\x86\Debug\StartupLoader.Resources.resources
+C:\mas\StartupLoader\StartupLoader\obj\x86\Debug\StartupLoader.vbproj.GenerateResource.Cache
+C:\mas\StartupLoader\StartupLoader\obj\x86\Debug\StartupLoader.StartupForm.resources
+C:\mas\StartupLoader\StartupLoader\obj\x86\Debug\StartupLoader.vbprojResolveAssemblyReference.cache

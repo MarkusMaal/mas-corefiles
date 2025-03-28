@@ -1,0 +1,10 @@
+C:\mas\Shell\bin\Release\Shell.exe
+C:\mas\Shell\bin\Release\Shell.pdb
+C:\mas\Shell\bin\Release\Shell.xml
+C:\mas\Shell\obj\x86\Release\Mas_Shell.Form1.resources
+C:\mas\Shell\obj\x86\Release\Mas_Shell.Form2.resources
+C:\mas\Shell\obj\x86\Release\Mas_Shell.Resources.resources
+C:\mas\Shell\obj\x86\Release\Shell.vbproj.GenerateResource.Cache
+C:\mas\Shell\obj\x86\Release\Shell.exe
+C:\mas\Shell\obj\x86\Release\Shell.xml
+C:\mas\Shell\obj\x86\Release\Shell.pdb

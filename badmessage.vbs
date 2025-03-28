@@ -1,0 +1,1 @@
+MsgBox("Kahjuks teil ei vedanud")
