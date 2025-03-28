@@ -1,0 +1,4 @@
+#!/bin/bash
+me=$(basename "$0")
+cd "$HOME/.mas/Markuse asjad/"
+open -a "${me}.app" $1 & disown
