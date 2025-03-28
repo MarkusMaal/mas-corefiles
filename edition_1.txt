@@ -1,0 +1,2 @@
+[Edition_info];;;;No;;;;;;
+;sama info siia, mis edition.txt-s, aga eraldatud semikoolonitega esimesel real

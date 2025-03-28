@@ -1,0 +1,12 @@
+[Edition_info]
+Väljaande liik (nt Basic+, Premium, Pro)
+Versiooni number (nt 10)
+Järgu number (initsiaalid, number, seadme tüüp, nt A000000a)
+Kirjuta sellele reale "No" enne juurutamist
+Kasutajanimi
+keel-PIIRKOND
+Kernel.Versioon
+F-U-N-K-T-S-I-O-O-N-I-D
+0000
+Versiooni nimi
+<jäta siia tühi rida, aga ära eemalda seda>

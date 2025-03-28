@@ -1,0 +1,6 @@
+{
+  "AutostartNotes": false,
+  "AllowScheduledTasks": true,
+  "ShowLogo": true,
+  "PollRate": 5000
+}
